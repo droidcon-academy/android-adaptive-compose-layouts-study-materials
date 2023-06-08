@@ -1,2 +1,2 @@
 # Study materials and source code for **Droidcon Academy** course 
-> # Add Course Name 
+> # Creating Apps for Multiple Device Screens with Android Jetpack Compose  
